@@ -1,2 +1,2 @@
 # Controlul-de-Calitate-BOT
-Controlul de Calitate Discord BOT by m0untain
+<a href="https://www.codefactor.io/repository/github/m0untain04/controlul-de-calitate-bot/overview/main"><img src="https://www.codefactor.io/repository/github/m0untain04/controlul-de-calitate-bot/badge/main" alt="CodeFactor" /></a>
