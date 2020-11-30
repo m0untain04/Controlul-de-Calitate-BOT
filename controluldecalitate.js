@@ -5,12 +5,7 @@
 
                 This BOT is originally created by phenomz0r.
                 I was bored and didn't know what to do so I decided to make it.
-    
-
-    cu dedicatzie pt chimicsen zis si seba care se crede mare programator si mare flooder
-    ps daca aveai aces la controlu cum ziceai tu, nu mai cerseai acces la flood la marky. tpp
-    daca copiezi din script, da credite in pula mea.
-    https://media.discordapp.net/attachments/746215497346842655/781849515073208330/hai_ca_flood.PNG?width=1442&height=464
+   
 
     p.s controlu nu mai poate fi bagat pe servere ca nu il verifica phnzr :(
         asa ca multe functii nu vor semana chiar ca controlu original
