@@ -2,17 +2,6 @@
 ======================================================================================
                     Controlul de calitate BOT by m0untain#1337
                                    1.0
-
-                This BOT is originally created by phenomz0r.
-                I was bored and didn't know what to do so I decided to make it.
-   
-
-    p.s controlu nu mai poate fi bagat pe servere ca nu il verifica phnzr :(
-        asa ca multe functii nu vor semana chiar ca controlu original
-
-    Developer: m0untain#1337
-    Ideas and original creator: phnzr#3280 (phenomz0r.net)
-    https://discordapp.com/oauth2/authorize?&client_id=447877397610758144&scope=bot
 ======================================================================================
 */
 const Discord = require('discord.js')
@@ -26,8 +15,8 @@ var developer = "309333602129281027"
 bot.on('ready', () =>
 {
     var lastrestart = GenerateDate();
-    console.log(`Controlul de calitate a inceput.,\
-                \nTotal servers counted: ${bot.guilds.cache.size}\`)
+    console.log(`Controlul de calitate a inceput.\
+                \nTotal servers counted: ${bot.guilds.cache.size}\
                 \nTotal users counted: ${bot.users.cache.size}\
                 \n\nDeveloped by: m0untain#1337\n\nOriginal creator: phnzr#3280`)
     bot.user.setActivity(`last restart: ${lastrestart}`, { type: 'STREAMING', url: `https://www.youtube.com/watch?v=9dOEUErDOG8&feature=youtu.be`});
