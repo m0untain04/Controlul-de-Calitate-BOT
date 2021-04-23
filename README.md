@@ -4,3 +4,7 @@
 <a href="https://img.shields.io/github/license/m0untain04/Controlul-de-Calitate-BOT"><img src="https://img.shields.io/github/license/m0untain04/Controlul-de-Calitate-BOT" alt="CodeFactor" /></a>
 
 https://www.youtube.com/watch?v=WdukXK_-E0I&ab_channel=m0untain
+
+pt ca phenomz0r nu da botu la verify, nu mai poate fi adaugat pe alte sv, asa ca am decis sa "copiez" controlul dupa cunostintele mele si sa il fac public.
+
+merge bn si pe china cred
