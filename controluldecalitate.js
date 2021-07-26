@@ -120,7 +120,7 @@ bot.on('message', async message =>
                 timeout: 10,
                 extra: ['-i', '2'],
             })
-            if(res.host == undefined) return await text1.edit("Cannot get IP.")
+            if(res.host == "unknown") return await text1.edit("Cannot get IP.")
             var iponline;
             ping.sys.probe(ipul, function(isAlive){
                 iponline = isAlive ? 'online' : 'offline';
@@ -129,7 +129,7 @@ bot.on('message', async message =>
             embed.setTitle(`Ping ${ipul} status`)
             embed.addField(`IP:`, `${ipul}`)
             embed.addField(`Status:`, iponline)
-            embed.addField(`Latency:`, res.time)
+            if(res.host != "unknown") {embed.addField(`Latency:`, res.time)}
             embed.addField(`Output:`, res.output)
          return text1.edit('',embed)
         })
