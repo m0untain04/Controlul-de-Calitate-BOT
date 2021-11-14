@@ -7,4 +7,4 @@ https://www.youtube.com/watch?v=WdukXK_-E0I&ab_channel=m0untain
 
 pt ca phenomz0r nu da botu la verify, nu mai poate fi adaugat pe alte sv, asa ca am decis sa "copiez" controlul dupa cunostintele mele si sa il fac public.
 
-merge bn si pe china cred
+nu merge pe china cred ca acolo e discordu banat.
